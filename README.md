@@ -22,7 +22,7 @@ This application presents random Kanye West quotes in a graphical user interface
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/kanye-quotes-python.git
+git clone https://github.com/arslanyousaf12/kanye-quotes-python.git
 cd kanye-quotes-start
 ```
 
